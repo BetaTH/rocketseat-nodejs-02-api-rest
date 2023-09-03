@@ -1,7 +1,7 @@
 API REST NODE
 
 TECNOLOGIES
-knex
-fastify
-zod
-sqlite
+- knex
+- fastify
+- zod
+- sqlite
